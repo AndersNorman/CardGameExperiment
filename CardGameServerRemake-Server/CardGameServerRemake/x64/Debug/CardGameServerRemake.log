@@ -1,0 +1,13 @@
+﻿  CardGameServerRemake.cpp
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(239): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(253): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(263): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(275): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(281): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(323): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(324): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(345): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(359): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(365): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(413): warning C4101: 'sd': unreferenced local variable
+  CardGameServerRemake.vcxproj -> C:\Users\krist\source\repos\CardGameServerRemake\x64\Debug\CardGameServerRemake.exe

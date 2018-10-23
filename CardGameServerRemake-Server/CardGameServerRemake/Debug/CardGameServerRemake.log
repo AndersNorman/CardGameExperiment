@@ -1,0 +1,25 @@
+﻿  CardGameServerRemake.cpp
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(211): error C2065: 'Mouse': undeclared identifier
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(211): error C2146: syntax error: missing ';' before identifier 'musen'
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(211): error C2065: 'musen': undeclared identifier
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(212): error C2065: 'musen': undeclared identifier
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(212): error C2228: left of '.x' must have class/struct/union
+  c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(212): note: type is 'unknown-type'
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(213): error C2065: 'musen': undeclared identifier
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(213): error C2228: left of '.y' must have class/struct/union
+  c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(213): note: type is 'unknown-type'
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(214): error C2065: 'musen': undeclared identifier
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(214): error C2228: left of '.r' must have class/struct/union
+  c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(214): note: type is 'unknown-type'
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(215): error C2065: 'musen': undeclared identifier
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(215): error C2228: left of '.g' must have class/struct/union
+  c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(215): note: type is 'unknown-type'
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(216): error C2065: 'musen': undeclared identifier
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(216): error C2228: left of '.b' must have class/struct/union
+  c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(216): note: type is 'unknown-type'
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(254): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(267): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(268): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Mouse.cpp
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\mouse.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

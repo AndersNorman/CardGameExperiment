@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  Card.cpp
+  CardGameServerRemake.cpp
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(239): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(249): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(263): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(275): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(285): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(297): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(303): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(319): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\krist\source\repos\cardgameserverremake\cardgameserverremake\cardgameserverremake.cpp(364): warning C4101: 'sd': unreferenced local variable
+  Generating code
+  0 of 1211 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CardGameServerRemake.vcxproj -> C:\Users\krist\source\repos\CardGameServerRemake\x64\Release\CardGameServerRemake.exe
